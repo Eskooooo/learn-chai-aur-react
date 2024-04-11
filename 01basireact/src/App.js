@@ -1,7 +1,15 @@
+import Pok from "./Pok";
 
 function App() {
   return (
-   <h1>Hello React</h1>
+    <>
+      <Pok />
+      <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas
+        maiores necessitatibus autem modi dolorem quibusdam perferendis
+        delectus.
+      </h1>
+    </>
   );
 }
 
